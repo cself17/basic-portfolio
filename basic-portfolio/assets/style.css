@@ -1,0 +1,140 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #ffffff;
+	background-image: url("background.jpg");
+}
+
+h1 {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+p {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.header {
+	background-color: #ffffff;
+	border-bottom: #cccccc 2px solid;
+
+	margin: 0;
+	padding: 0;
+
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+
+	height: 100px;
+}
+
+.heading {
+	background-color: teal;
+	margin: 0;
+	padding: 10px 20px;
+	color: #ffffff;
+}
+
+head {
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	text-decoration: none;
+}
+
+nav {
+	margin: 0;
+	padding: 0;
+	background-color: #ffffff;
+	padding: 40px 20px 60px 30px;
+	height: 0px;
+	color: #777777;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.background {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 1000px;
+	background-image: url("./images/cement.jpg");
+	border-bottom: solid 10px teal;
+}
+
+.indexheading {
+	background-color: #ffffff;
+	color: teal;
+	margin: 0;
+	padding: 0;
+	height: 70px;
+	width: 880px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px 0px 20px 0px;
+	border-bottom: grey 3px solid;
+}
+
+.container {
+	margin: 0;
+	padding: 0;
+	background-color: blue;
+	height: 600px;
+	width: 954px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 40px;
+	background: #ffffff;
+	border: solid 3px #dddddd;
+}
+
+.containers {
+	margin: 0;
+	padding: 0;
+	background-color: blue;
+	height: 800px;
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 40px;
+	background: #ffffff;
+
+}
+
+img {
+	background-color: #ffffff;
+	float: left;
+	padding: 0px 20px 10px 0px;
+}
+
+.paragraph {
+	background-color: #ffffff;
+	padding: 20px;
+	color: #777777;
+}
+
+.footer {
+	background-color: #666666;
+	margin: auto;
+	text-align: center;
+	padding: 100px 0px 0px 0px;
+}
+
+.textbox {
+	padding: 20px 0px 0px 40px; 
+}
+
+.Portfolio {
+	padding: 20px 0px 0px 40px;
+}
+
+.Container1 {
+	position: relative;
+		left: 50px;
+		top: 50px;
+		padding: 0;
+		margin: 0;
+		background-color: blue;
+}
+
+/* I don't even know how to do the portfolio....  I basically have to get the boxes layed around correctly on the page..and then I have to get the text to align in the center of the boxes*/
